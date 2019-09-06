@@ -1,0 +1,6 @@
+C:\Users\jingang.wu\source\repos\ConsoleApp5\uih-us-dump\bin\Release\uih-us-dump.exe.config
+C:\Users\jingang.wu\source\repos\ConsoleApp5\uih-us-dump\bin\Release\uih-us-dump.exe
+C:\Users\jingang.wu\source\repos\ConsoleApp5\uih-us-dump\bin\Release\uih-us-dump.pdb
+C:\Users\jingang.wu\source\repos\ConsoleApp5\uih-us-dump\obj\Release\uih-us-dump.csproj.CoreCompileInputs.cache
+C:\Users\jingang.wu\source\repos\ConsoleApp5\uih-us-dump\obj\Release\uih-us-dump.exe
+C:\Users\jingang.wu\source\repos\ConsoleApp5\uih-us-dump\obj\Release\uih-us-dump.pdb

@@ -1,0 +1,7 @@
+C:\Users\jingang.wu\Desktop\wjg-study\wjg-github\dotnet-study\windbg-test\windbg-test\bin\Debug\windbg-test.exe.config
+C:\Users\jingang.wu\Desktop\wjg-study\wjg-github\dotnet-study\windbg-test\windbg-test\bin\Debug\windbg-test.exe
+C:\Users\jingang.wu\Desktop\wjg-study\wjg-github\dotnet-study\windbg-test\windbg-test\bin\Debug\windbg-test.pdb
+C:\Users\jingang.wu\Desktop\wjg-study\wjg-github\dotnet-study\windbg-test\windbg-test\obj\Debug\windbg-test.csprojAssemblyReference.cache
+C:\Users\jingang.wu\Desktop\wjg-study\wjg-github\dotnet-study\windbg-test\windbg-test\obj\Debug\windbg-test.csproj.CoreCompileInputs.cache
+C:\Users\jingang.wu\Desktop\wjg-study\wjg-github\dotnet-study\windbg-test\windbg-test\obj\Debug\windbg-test.exe
+C:\Users\jingang.wu\Desktop\wjg-study\wjg-github\dotnet-study\windbg-test\windbg-test\obj\Debug\windbg-test.pdb
